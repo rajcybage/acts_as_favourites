@@ -1,3 +1,6 @@
+
+#ActsAsFavourites [![Build Status](https://travis-ci.org/rajcybage/acts_as_favourites.svg)](https://travis-ci.org/rajcybage/acts_as_favourites)
+
 Add favorite fuctionalities to any Active Record models through polymorphic association. 
 
 
@@ -42,6 +45,7 @@ class User < ActiveRecord::Base
   acts_as_favoriter
 end
 ```
+
 
 It is not necessary to use both `acts_as_favorable` and `acts_as_favoriter` . You can use one to execute.
 
