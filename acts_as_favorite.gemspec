@@ -4,12 +4,12 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'acts_as_favorite/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "acts_as_favorite"
+  spec.name          = "acts_as_favourites"
   spec.version       = Favorable::VERSION
   spec.authors       = ["Rajarshi Das"]
   spec.email         = ["rajarshi2576@gmail.com"]
   spec.summary       = %q{Add favorite feature to any Active Record models}
-  spec.homepage      = "https://github.com/rajcybage/acts_as_favorite"
+  spec.homepage      = "https://github.com/rajcybage/acts_as_favourites"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
