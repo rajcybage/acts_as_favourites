@@ -1,5 +1,5 @@
 
-#ActsAsFavourites [![Build Status](https://travis-ci.org/rajcybage/acts_as_favourites.svg)](https://travis-ci.org/rajcybage/acts_as_favourites) [![Coverage Status](https://coveralls.io/repos/rajcybage/acts_as_favourites/badge.svg)](https://coveralls.io/r/rajcybage/acts_as_favourites
+#ActsAsFavourites [![Build Status](https://travis-ci.org/rajcybage/acts_as_favourites.svg)](https://travis-ci.org/rajcybage/acts_as_favourites) [![Coverage Status](https://coveralls.io/repos/rajcybage/acts_as_favourites/badge.svg?branch=master%0A)](https://coveralls.io/r/rajcybage/acts_as_favourites?branch=master%0A)
 
 Add favorite fuctionalities to any Active Record models through polymorphic association. 
 
@@ -9,7 +9,7 @@ Add favorite fuctionalities to any Active Record models through polymorphic asso
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'acts_as_favorite'
+gem 'acts_as_favourites'
 ```
 
 And then execute:
