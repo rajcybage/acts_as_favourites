@@ -1,5 +1,5 @@
 
-#ActsAsFavourites [![Build Status](https://travis-ci.org/rajcybage/acts_as_favourites.svg)](https://travis-ci.org/rajcybage/acts_as_favourites)
+#ActsAsFavourites [![Build Status](https://travis-ci.org/rajcybage/acts_as_favourites.svg)](https://travis-ci.org/rajcybage/acts_as_favourites) [![Coverage Status](https://coveralls.io/repos/rajcybage/acts_as_favourites/badge.svg)](https://coveralls.io/r/rajcybage/acts_as_favourites
 
 Add favorite fuctionalities to any Active Record models through polymorphic association. 
 
